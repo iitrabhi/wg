@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/1_chapter/1_lesson.md",
+                "file": "mkdocs/docs/1_writing/1_introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/1_chapter/1_lesson.md",
+                "file": "mkdocs/docs/1_writing/1_introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/1_chapter/1_lesson.md",
+                "file": "mkdocs/docs/1_writing/1_introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/1_chapter/1_lesson.md"
+                "file": "mkdocs/docs/1_writing/1_introduction.md"
               }
             }
           },
@@ -189,7 +189,7 @@
     "mkdocs/docs/img/My Notes.svg",
     "mkdocs/docs/3_chapter/1_lesson.md",
     "mkdocs/docs/2_chapter/1_lesson.md",
-    "mkdocs/docs/1_chapter/1_lesson.md",
+    "mkdocs/docs/1_writing/1_introduction.md",
     "mkdocs.code-workspace",
     "markdown.css",
     "glacier.code-workspace",
@@ -197,7 +197,7 @@
     "mkdocs/docs/3_chapter",
     "mkdocs/docs/1_chapter/2_installation.md",
     "mkdocs/docs/1_chapter/1_motivation.md",
-    "mkdocs/docs/1_chapter",
+    "mkdocs/docs/1_writing",
     "mkdocs/docs/2_chapter/1_motivation.md",
     "mkdocs/docs/2_chapter",
     "mkdocs/docs/1_chapter_1/2_installation.md",
