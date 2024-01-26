@@ -19,8 +19,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f35652c08ba345e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/1_writing/2_markdown.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9487a348890c08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/1_writing/3_slack.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6e4de9f1d22c865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/1_writing/4_obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc189d01238c4274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/1_writing/5_git_hub.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/1_writing/1_introduction.md",
+                "file": "mkdocs/docs/1_writing/5_git_hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/1_writing/1_introduction.md",
+                "file": "mkdocs/docs/1_writing/5_git_hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/1_writing/1_introduction.md"
+                "file": "mkdocs/docs/1_writing/5_git_hub.md"
               }
             }
           },
@@ -177,8 +230,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "faead026aa1841dd",
+  "active": "bc189d01238c4274",
   "lastOpenFiles": [
+    "mkdocs/docs/1_writing/4_obsidian.md",
+    "mkdocs/docs/1_writing/5_git_hub.md",
+    "mkdocs/docs/1_writing/1_introduction.md",
+    "mkdocs/docs/1_writing/2_markdown.md",
+    "mkdocs/docs/1_writing/3_slack.md",
+    "docs/1_writing/1_introduction/index.html",
+    "docs/1_writing/1_introduction",
+    "docs/1_writing",
     "mkdocs/docs/index.md",
     "README.md",
     "mkdocs/docs/img/logo.afdesign",
@@ -189,7 +250,6 @@
     "mkdocs/docs/img/My Notes.svg",
     "mkdocs/docs/3_chapter/1_lesson.md",
     "mkdocs/docs/2_chapter/1_lesson.md",
-    "mkdocs/docs/1_writing/1_introduction.md",
     "mkdocs.code-workspace",
     "markdown.css",
     "glacier.code-workspace",
@@ -199,13 +259,10 @@
     "mkdocs/docs/1_chapter/1_motivation.md",
     "mkdocs/docs/1_writing",
     "mkdocs/docs/2_chapter/1_motivation.md",
-    "mkdocs/docs/2_chapter",
     "mkdocs/docs/1_chapter_1/2_installation.md",
     "mkdocs/docs/1_chapter_1/1_motivation.md",
-    "mkdocs/docs/1_chapter_1",
     "mkdocs/docs/1_codes/2_installation.md",
     "mkdocs/docs/1_codes/1_motivation.md",
-    "mkdocs/docs/1_codes",
     "mkdocs/docs/2_workshop/1_motivation.md",
     "mkdocs/docs/3_cyber_learning_tools/1_motivation.md",
     "mkdocs/README.md",
@@ -221,10 +278,7 @@
     "admin/7_meetings/Untitled.canvas",
     "admin/6_logs/2023-12-18.md",
     "admin/7_meetings/Meeting - 2024-01-11.md",
-    "admin/readme.md",
-    "admin/7_meetings/Meeting - 2023-12-22.md",
     "paint.canvas",
-    "scripts/1_validation/1_no_crevasse/readme.md",
     "scripts/1_validation/1_no_crevasse/attachments/Pasted image 20240105155429.png",
     "attachments/Pasted image 20240105155259.png",
     "plan.canvas",
