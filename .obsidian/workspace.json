@@ -195,7 +195,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
+                "file": "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82ddef653df0fcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
+                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
+                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md"
+                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md"
               }
             }
           },
@@ -360,8 +373,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbfefaa56b052708",
+  "active": "82ddef653df0fcdd",
   "lastOpenFiles": [
+    "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
+    "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
+    "mkdocs/docs/3_use_of_digital_world/1_linkedin_profile_setup.md",
+    "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
     "docs/1_writing/5_git_hub/index.html",
     "docs/1_writing/5_git_hub",
     "docs/1_writing/4_obsidian/index.html",
@@ -371,14 +388,11 @@
     "docs/1_writing/2_markdown/index.html",
     "docs/1_writing/2_markdown",
     "mkdocs/docs/4_recommendations/2_good_video_series.md",
-    "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
     "mkdocs/docs/4_recommendations/1_good_books.md",
     "mkdocs/docs/1_setting_up_system/0_digital_you.md",
-    "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
     "mkdocs/docs/4_recommendations",
     "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
     "mkdocs/docs/3_use_of_digital_world/2_facebook_setup.md",
-    "mkdocs/docs/3_use_of_digital_world/1_linkedin_profile_setup.md",
     "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
     "mkdocs/docs/2_brand_guidelines/3_animation.md",
     "mkdocs/docs/2_brand_guidelines/2_video.md",
@@ -389,7 +403,6 @@
     "mkdocs/docs/1_setting_up_system/2_markdown.md",
     "mkdocs/docs/1_setting_up_system/3_slack.md",
     "docs/1_writing/1_introduction/index.html",
-    "docs/1_writing/1_introduction",
     "mkdocs/docs/index.md",
     "README.md",
     "mkdocs/docs/img/favicon.png",
