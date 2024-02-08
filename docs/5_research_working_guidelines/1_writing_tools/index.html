@@ -190,14 +190,14 @@ There are many software to write in LaTex, but we follow overleaf. The detailed 
 </li>
 </ol>
 <h3 id="document-structure">Document Structure</h3>
-<pre><code class="language-latex">\documentclass{article}
+<pre><code>\documentclass{article}
 \usepackage[utf8]{inputenc}
 \begin{document}
 Hello, World!
 \end{document}
 </code></pre>
 <h3 id="sections-and-subsections">Sections and Subsections</h3>
-<pre><code class="language-latex">\section{Section Title}
+<pre><code>\section{Section Title}
 \subsection{Subsection Title}
 \subsubsection{Subsubsection Title}
 </code></pre>
@@ -210,14 +210,12 @@ Hello, World!
 <h3 id="lists">Lists</h3>
 <ul>
 <li><strong>Unordered List</strong>:
-  <code>latex
-  \begin{itemize}
+  <code>\begin{itemize}
     \item First item
     \item Second item
   \end{itemize}</code></li>
 <li><strong>Ordered List</strong>:
-  <code>latex
-  \begin{enumerate}
+  <code>\begin{enumerate}
     \item First item
     \item Second item
   \end{enumerate}</code></li>
@@ -225,15 +223,13 @@ Hello, World!
 <h3 id="figures-and-tables">Figures and Tables</h3>
 <ul>
 <li><strong>Inserting a Figure</strong>:
-  <code>latex
-  \begin{figure}
+  <code>\begin{figure}
     \includegraphics[width=\linewidth]{filename.jpg}
     \caption{Caption here.}
     \label{fig:label}
   \end{figure}</code></li>
 <li><strong>Creating a Table</strong>:
-  <code>latex
-  \begin{table}
+  <code>\begin{table}
     \begin{tabular}{l|c|r}
       Left &amp; Center &amp; Right \\
       \hline
