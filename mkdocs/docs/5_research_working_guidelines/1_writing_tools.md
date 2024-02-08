@@ -130,3 +130,118 @@ Hello, World!
 
 This cheat sheet covers the basics to get started with LaTeX. For more detailed information and advanced features, consider referring to comprehensive LaTeX guides or the [Overleaf Documentation](https://www.overleaf.com/learn).
 
+Here's a Markdown-friendly LaTeX cheat sheet focusing on mathematical commands, covering the essentials like addition, square roots, powers, subscripts, fractions, and more. This guide is designed to be both comprehensive and easy to reference.
+
+## LaTeX Mathematical Commands Cheat Sheet
+
+### Basic Operations
+- **Addition/Subtraction**: `a + b`, `a - b`
+- **Multiplication (Dot)**: `a \cdot b`
+- **Division (Fraction)**: `\frac{a}{b}`
+- **Square Root**: `\sqrt{x}`
+- **Nth Root**: `\sqrt[n]{x}`
+
+### Powers and Indices
+- **Power (Superscript)**: `a^{b}`
+- **Subscript**: `a_{b}`
+
+### Fractions
+- **Simple Fraction**: `\frac{a}{b}`
+
+### Text in Equations
+- **Text Within Equations**: `\text{your text here}`
+
+### Integration
+- **Definite Integral**: `\int_{a}^{b} f(x) \, dx`
+- **Indefinite Integral**: `\int f(x) \, dx`
+
+### Summation
+- **Summation**: `\sum_{i=1}^{n} a_i`
+
+### Brackets and Delimiters
+- **Parentheses**: `\left( a + b \right)`
+- **Brackets**: `\left[ a + b \right]`
+- **Curly Braces**: `\left\{ a + b \right\}`
+- **Big Brackets**: `\bigl( \bigr)`, `\Bigl( \Bigr)`, `\biggl( \biggr)`, `\Biggl( \Biggr)`
+
+### Norms
+- **Norm**: `\|x\|`, `\left\| x \right\|`
+
+### Dot and Cross Product
+- **Dot Product**: `a \cdot b`
+- **Cross Product**: `a \times b`
+
+### Gradient, Nabla, and Divergence
+- **Nabla (Gradient)**: `\nabla f`
+- **Gradient**: `\nabla f`
+- **Divergence**: `\nabla \cdot \mathbf{F}`
+
+### Hessian
+- **Hessian Matrix**: `H(f)(\mathbf{x})`, typically defined explicitly in the context of a function.
+
+### Underbrace
+- **Underbrace**: `\underbrace{a + b + \cdots + z}_{\text{sum}}`
+
+### Additional Commands
+- **Cross Product**: `a \times b` (repeated for emphasis)
+- **Underbraces**: `\underbrace{expression}_{text}`
+
+### Examples
+Here are some examples to illustrate how to use these commands in LaTeX:
+
+```latex
+% Powers and indices
+E = mc^{2}
+x_{1}
+
+% Fractions
+\frac{1}{2}
+
+% Square root
+\sqrt{x}, \sqrt[n]{x}
+
+% Text in equations
+F = ma \text{ where } m \text{ is mass}
+
+% Integration
+\int_{0}^{\infty} e^{-x} \, dx
+
+% Summation
+\sum_{i=1}^{n} i^2
+
+% Brackets and Norms
+\left( \frac{a}{b} \right)
+\|x\|
+
+% Dot and Cross Product
+a \cdot b, a \times b
+
+% Gradient and Divergence
+\nabla \cdot \mathbf{F}, \nabla f
+
+% Underbrace
+\underbrace{1 + 2 + \cdots + 100}_{\text{first 100 natural numbers}}
+```
+
+This cheat sheet covers fundamental mathematical commands used in LaTeX for various types of expressions and operations. It's a handy reference for quickly recalling how to format mathematical content within your LaTeX documents.
+## We use LaTex OCR for equation automation.
+Link - [Link to OCR git](https://github.com/lukas-blecher/LaTeX-OCR)
+
+To run the model you need Python 3.7+
+
+If you don't have PyTorch installed. Follow their instructions [here](https://pytorch.org/get-started/locally/).
+
+Install the package `pix2tex`:
+
+```
+pip install "pix2tex[gui]"
+```
+
+Model checkpoints will be downloaded automatically.
+
+There are three ways to get a prediction from an image.
+
+1. You can use the command line tool by calling `pix2tex`. Here you can parse already existing images from the disk and images in your clipboard.
+    
+2. Thanks to [@katie-lim](https://github.com/katie-lim), you can use a nice user interface as a quick way to get the model prediction. Just call the GUI with `latexocr`. From here, you can take a screenshot, and the predicted latex code is rendered using [MathJax](https://www.mathjax.org/) and copied to your clipboard.
+    
