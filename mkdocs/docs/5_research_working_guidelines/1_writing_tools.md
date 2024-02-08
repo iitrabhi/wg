@@ -46,7 +46,7 @@ There are many software to write in LaTex, but we follow overleaf. The detailed 
 ## LaTeX Cheat Sheet
 
 ### Document Structure
-```latex
+```
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \begin{document}
@@ -55,7 +55,7 @@ Hello, World!
 ```
 
 ### Sections and Subsections
-```latex
+```
 \section{Section Title}
 \subsection{Subsection Title}
 \subsubsection{Subsubsection Title}
@@ -68,14 +68,14 @@ Hello, World!
 
 ### Lists
 - **Unordered List**:
-  ```latex
+  ```
   \begin{itemize}
     \item First item
     \item Second item
   \end{itemize}
   ```
 - **Ordered List**:
-  ```latex
+  ```
   \begin{enumerate}
     \item First item
     \item Second item
@@ -84,7 +84,7 @@ Hello, World!
 
 ### Figures and Tables
 - **Inserting a Figure**:
-  ```latex
+  ```
   \begin{figure}
     \includegraphics[width=\linewidth]{filename.jpg}
     \caption{Caption here.}
@@ -92,7 +92,7 @@ Hello, World!
   \end{figure}
   ```
 - **Creating a Table**:
-  ```latex
+  ```
   \begin{table}
     \begin{tabular}{l|c|r}
       Left & Center & Right \\

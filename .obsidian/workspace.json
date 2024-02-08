@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/2_python.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/2_python.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/2_python.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/2_python.md"
+                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md"
               }
             }
           },
@@ -219,12 +219,12 @@
   },
   "active": "f5e6a92c9b7ff527",
   "lastOpenFiles": [
+    "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "docs/5_research_working_guidelines/3_fenics/index.html",
     "docs/5_research_working_guidelines/3_fenics",
     "docs/5_research_working_guidelines/2_python/index.html",
     "docs/5_research_working_guidelines/2_python",
     "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
-    "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "docs/5_research_working_guidelines/attachments/Pasted image 20240208221851.png",
     "docs/5_research_working_guidelines/Untitled 1/index.html",
@@ -233,7 +233,6 @@
     "docs/5_research_working_guidelines/Untitled 1",
     "docs/5_research_working_guidelines/1_writing_tools",
     "docs/5_research_working_guidelines",
-    "docs/css/fonts/lato-normal.woff2",
     "docs/css/fonts/fontawesome-webfont.svg",
     "docs/img/logo.svg",
     "mkdocs/docs/5_research_working_guidelines/attachments/Pasted image 20240208221851.png",
