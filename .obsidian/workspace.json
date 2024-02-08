@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26a430a87b6f10cb",
+        "id": "e9d01b6613e4e91d",
         "type": "tabs",
         "children": [
           {
-            "id": "faead026aa1841dd",
+            "id": "188cfe78027683be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/1_introduction.md",
+                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,194 +21,12 @@
             }
           },
           {
-            "id": "1f35652c08ba345e",
+            "id": "8bd03acb41e91f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/2_markdown.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9487a348890c08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/1_setting_up_system/3_slack.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e4de9f1d22c865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc189d01238c4274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/1_setting_up_system/1_introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe360e1c669b5baf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1266e982af7824fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/2_video.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e1d279d83aeb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/3_animation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee058f1cb4ee40e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/1_linkedin_profile_setup.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df559bcbfaae61f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/2_facebook_setup.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ed6af59f6ba0762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79bc4e58fdfafe57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02f277bc8e4a0156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/4_recommendations/1_good_books.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49677b3f3696416c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/4_recommendations/2_good_video_series.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbfefaa56b052708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82ddef653df0fcdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
+                "file": "mkdocs/docs/1_setting_up_system/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -216,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
+                "file": "mkdocs/docs/1_setting_up_system/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
+                "file": "mkdocs/docs/1_setting_up_system/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md"
+                "file": "mkdocs/docs/1_setting_up_system/Untitled.md"
               }
             }
           },
@@ -373,12 +191,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82ddef653df0fcdd",
+  "active": "8bd03acb41e91f5b",
   "lastOpenFiles": [
+    "mkdocs/docs/1_setting_up_system/5_git_hub.md",
+    "mkdocs/docs/1_setting_up_system/Untitled.md",
+    "mkdocs/docs/5_research_working_guidelines",
+    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
+    "README.md",
+    "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
     "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
     "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
-    "mkdocs/docs/3_use_of_digital_world/1_linkedin_profile_setup.md",
+    "mkdocs/docs/4_recommendations/2_good_video_series.md",
     "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
+    "mkdocs/docs/img/logo.svg",
+    "mkdocs/docs/index.md",
+    "mkdocs/docs/1_setting_up_system/0_digital_you.md",
+    "mkdocs/docs/1_setting_up_system/1_introduction.md",
+    "mkdocs/docs/1_setting_up_system/2_markdown.md",
+    "mkdocs/docs/1_setting_up_system/3_slack.md",
+    "mkdocs/docs/3_use_of_digital_world/2_facebook_setup.md",
+    "mkdocs/docs/3_use_of_digital_world/1_linkedin_profile_setup.md",
+    "mkdocs/docs/4_recommendations/1_good_books.md",
+    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+    "mkdocs/docs/2_brand_guidelines/3_animation.md",
+    "mkdocs/docs/2_brand_guidelines/2_video.md",
     "docs/1_writing/5_git_hub/index.html",
     "docs/1_writing/5_git_hub",
     "docs/1_writing/4_obsidian/index.html",
@@ -387,26 +223,9 @@
     "docs/1_writing/3_slack",
     "docs/1_writing/2_markdown/index.html",
     "docs/1_writing/2_markdown",
-    "mkdocs/docs/4_recommendations/2_good_video_series.md",
-    "mkdocs/docs/4_recommendations/1_good_books.md",
-    "mkdocs/docs/1_setting_up_system/0_digital_you.md",
     "mkdocs/docs/4_recommendations",
-    "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
-    "mkdocs/docs/3_use_of_digital_world/2_facebook_setup.md",
     "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
-    "mkdocs/docs/2_brand_guidelines/3_animation.md",
-    "mkdocs/docs/2_brand_guidelines/2_video.md",
-    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
-    "mkdocs/docs/1_setting_up_system/1_introduction.md",
-    "mkdocs/docs/1_setting_up_system/5_git_hub.md",
-    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
-    "mkdocs/docs/1_setting_up_system/2_markdown.md",
-    "mkdocs/docs/1_setting_up_system/3_slack.md",
-    "docs/1_writing/1_introduction/index.html",
-    "mkdocs/docs/index.md",
-    "README.md",
     "mkdocs/docs/img/favicon.png",
-    "mkdocs/docs/img/logo.svg",
     "mkdocs/docs/img/logo-2.svg",
     "mkdocs/docs/img/My Notes.svg",
     "mkdocs/docs/3_chapter/1_motivation.md",
@@ -414,7 +233,6 @@
     "mkdocs/docs/1_chapter/1_motivation.md",
     "mkdocs/docs/2_chapter/1_motivation.md",
     "mkdocs/docs/1_chapter_1/2_installation.md",
-    "mkdocs/docs/1_chapter_1/1_motivation.md",
     "docs/css/fonts/fontawesome-webfont.svg",
     "docs/img/logo.svg",
     "mkdocs/site/css/fonts/fontawesome-webfont.svg",
