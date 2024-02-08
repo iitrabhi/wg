@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50ac847997a7c10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md"
+                "file": "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md"
               }
             }
           },
@@ -217,10 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5e6a92c9b7ff527",
+  "active": "50ac847997a7c10f",
   "lastOpenFiles": [
-    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
+    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "docs/5_research_working_guidelines/3_fenics/index.html",
     "docs/5_research_working_guidelines/3_fenics",
