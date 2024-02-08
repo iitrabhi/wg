@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5e6a92c9b7ff527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,8 +217,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32661aab5d470936",
+  "active": "01f9f9c6e9f233c4",
   "lastOpenFiles": [
+    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
+    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "docs/css/fonts/lato-normal.woff2",
     "docs/css/fonts/lato-normal.woff",
     "docs/css/fonts/lato-normal-italic.woff2",
@@ -216,13 +231,11 @@
     "docs/css/fonts/lato-bold-italic.woff",
     "docs/css/fonts/fontawesome-webfont.woff2",
     "docs/css/fonts/fontawesome-webfont.woff",
-    "docs/css/fonts/fontawesome-webfont.ttf",
     "docs/css/fonts/fontawesome-webfont.svg",
     "docs/img/logo.svg",
     "mkdocs/docs/5_research_working_guidelines/attachments/Pasted image 20240208221851.png",
     "mkdocs/docs/1_setting_up_system/2_markdown.md",
-    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
-    "mkdocs/docs/5_research_working_guidelines/Untitled 1.md",
+    "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "mkdocs/docs/1_setting_up_system/3_slack.md",
     "mkdocs/docs/1_setting_up_system/1_introduction.md",
     "mkdocs/docs/1_setting_up_system/0_digital_you.md",

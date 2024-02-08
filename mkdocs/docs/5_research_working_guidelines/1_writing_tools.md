@@ -1,4 +1,5 @@
-![](attachments/Pasted%20image%2020240208221851.png)## About LaTeX
+![](attachments/Pasted%20image%2020240208221851.png)
+## About LaTeX
 We follow the LaTex in our lab, so we have 
 LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents. It is available as free software and is used for a wide range of documents, from simple letters to complete books. LaTeX uses TeX as its formatting engine. This system is particularly powerful for complex documents that include references and footnotes. 
 There are many software to write in LaTex, but we follow overleaf. The detailed procedure to login and use overleaf is explained below: 
@@ -10,8 +11,8 @@ There are many software to write in LaTex, but we follow overleaf. The detailed 
 
 ### 2. Creating an Account or Signing In
 
-- **New Users**: Click on "Register" to create a new account. Provide an email address, create a password, and complete the registration.
-- **Existing Users**: Click on "Login" and enter your email and password.
+- **New Users**: Click on `Register` to create a new account. Provide an email address, create a password, and complete the registration.
+- **Existing Users**: Click on `Login` and enter your email and password.
 
 ### 3. Overview of Overleaf Interface
 
@@ -23,11 +24,13 @@ There are many software to write in LaTex, but we follow overleaf. The detailed 
     
     - On your dashboard, click on "New Project" to start a new LaTeX document. You can choose to start from a blank project, upload an existing project, or select from a variety of templates.
     - Give your project a meaningful name that reflects its content or purpose.
-1. **Working on the Project**:
+2. **Working on the Project**:
     
     - The Overleaf editor is split into three main sections: the source code editor, the PDF preview, and the file tree/settings. You can write your LaTeX code in the source editor, and the PDF preview will update in real-time.
     - Use the file tree to organize your document's components, such as chapters, images, and bibliography files.
-3. **Compiling Your Document**: Use the "Recompile" button to compile your LaTeX code into a PDF document. Overleaf automatically detects errors and warnings displayed above the PDF preview.
+3. **Compiling Your Document**: 
+
+	- Use the "Recompile" button to compile your LaTeX code into a PDF document. Overleaf automatically detects errors and warnings displayed above the PDF preview.
     
 
 ### Sharing Overleaf Projects
@@ -126,3 +129,4 @@ Hello, World!
   ```
 
 This cheat sheet covers the basics to get started with LaTeX. For more detailed information and advanced features, consider referring to comprehensive LaTeX guides or the [Overleaf Documentation](https://www.overleaf.com/learn).
+
