@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>4 color palates - My Notes</title>
+    <title>0 first work in lab - My Notes</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
@@ -14,8 +14,8 @@
     
       <script>
         // Current page data
-        var mkdocs_page_name = "4 color palates";
-        var mkdocs_page_input_path = "2_brand_guidelines/4_color_palates.md";
+        var mkdocs_page_name = "0 first work in lab";
+        var mkdocs_page_input_path = "5_research_working_guidelines/0_first_work_in_lab.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -62,14 +62,14 @@
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">2 brand guidelines</span></p>
-              <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../1_blogging/">1 blogging</a>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../2_brand_guidelines/1_blogging/">1 blogging</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../2_video/">2 video</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../../2_brand_guidelines/2_video/">2 video</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../3_animation/">3 animation</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../../2_brand_guidelines/3_animation/">3 animation</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">4 color palates</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../../2_brand_guidelines/4_color_palates/">4 color palates</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">3 use of digital world</span></p>
@@ -95,14 +95,16 @@
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">5 research working guidelines</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../5_research_working_guidelines/0_first_work_in_lab/">0 first work in lab</a>
+              <ul class="current">
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">0 first work in lab</a>
+    <ul class="current">
+    </ul>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../5_research_working_guidelines/1_writing_tools/">1 writing tools</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_writing_tools/">1 writing tools</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../5_research_working_guidelines/2_python/">2 python</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_python/">2 python</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../5_research_working_guidelines/3_fenics/">3 fenics</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_fenics/">3 fenics</a>
                   </li>
               </ul>
       </div>
@@ -119,8 +121,8 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
-          <li class="breadcrumb-item">2 brand guidelines</li>
-      <li class="breadcrumb-item active">4 color palates</li>
+          <li class="breadcrumb-item">5 research working guidelines</li>
+      <li class="breadcrumb-item active">0 first work in lab</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -129,13 +131,101 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                
+                <p>Creating a two-page summary of your Master's research work and preparing a presentation in LaTeX and PowerPoint or Beamer involves several steps, focusing on content organization, formatting, and adherence to Avkalan Labs' guidelines. This guide will outline a structured approach to accomplish these tasks, assuming Avkalan Labs has specific formatting and presentation requirements as commonly found in academic and research settings.</p>
+<h3 id="preparing-the-two-page-summary-in-latex">Preparing the Two-Page Summary in LaTeX</h3>
+<ol>
+<li><strong>Document Setup</strong>:
+   Start by setting up a LaTeX document using the <code>article</code> class, which is suitable for short documents like a two-page summary.</li>
+</ol>
+<p><code>latex
+   \documentclass[11pt, a4paper]{article}
+   \usepackage[utf8]{inputenc}
+   \usepackage{times} % or another font package if required
+   \usepackage{geometry}
+   \geometry{a4paper, margin=1in}
+   \usepackage{graphicx} % for including figures
+   \usepackage{biblatex} % for bibliography
+   \addbibresource{references.bib} % Assuming you have a .bib file</code></p>
+<ol>
+<li><strong>Content Organization</strong>:
+   Organize your summary into sections: Introduction, Research Hypothesis, Methods, Results, Discussion, and Conclusion. Keep your content concise to fit the two-page limit.</li>
+</ol>
+<p>```latex
+   \begin{document}
+   \title{Title of Your Master's Research}
+   \author{Your Name\Avkalan Labs Private Limited}
+   \date{\today}
+   \maketitle</p>
+<p>\section{Introduction}
+   Briefly introduce your research question and objectives.
+   \section{Research Hypothesis}
+   In this sectio,n you will write aboutt he hypothesis you have assumed before setting the obejectiv</p>
+<p>\section{Methods}
+   Summarize the methods or approach used in your research.</p>
+<p>\section{Results}
+   Highlight the key findings of your study.</p>
+<p>\section{Discussion}
+   Discuss the implications of your results.</p>
+<p>\section{Conclusion}
+   Conclude with the significance of your findings and future work.</p>
+<p>\printbibliography
+   \end{document}
+   ```</p>
+<ol>
+<li>
+<p><strong>Figures and Tables</strong>:
+   Include essential figures or tables that support your summary. Use the <code>figure</code> and <code>table</code> environments. Remember to keep everything concise to fit the two-page limit.</p>
+</li>
+<li>
+<p><strong>Compiling the Document</strong>:
+   Compile your LaTeX document to PDF, ensuring all guidelines (font size, margins, etc.) are followed.</p>
+</li>
+</ol>
+<h3 id="preparing-the-presentation-in-beamer-or-powerpoint">Preparing the Presentation in Beamer or PowerPoint</h3>
+<ol>
+<li><strong>Beamer for LaTeX Users</strong>:
+   If you choose Beamer, start with a basic frame setup. Beamer is a LaTeX document class for creating slides for presentations.</li>
+</ol>
+<p>```latex
+   \documentclass{beamer}
+   \usetheme{Madrid} % or any other theme that suits your preference</p>
+<p>\title{Title of Your Master's Research}
+   \author{Your Name}
+   \institute{Avkalan Labs Private Limited}
+   \date{\today}</p>
+<p>\begin{document}</p>
+<p>\frame{\titlepage}</p>
+<p>\begin{frame}
+   \frametitle{Introduction}
+   \end{frame}</p>
+<p>% Add more frames for Methods, Results, Discussion, and Conclusion</p>
+<p>\end{document}
+   ```</p>
+<ol>
+<li>
+<p><strong>PowerPoint</strong>:
+   If you opt for PowerPoint, follow Avkalan Labs' guidelines regarding slide design, font sizes, and colors. Each slide should cover one of the main sections (Introduction, Methods, Results, Discussion, Conclusion). Use bullet points for clarity and include visuals like graphs and charts to enhance understanding.</p>
+</li>
+<li>
+<p><strong>Presentation Tips</strong>:</p>
+</li>
+<li><strong>Keep It Simple</strong>: Each slide should convey a single idea.</li>
+<li><strong>Visuals</strong>: Use charts, graphs, and images to illustrate your points.</li>
+<li><strong>Practice</strong>: Rehearse your presentation to ensure it fits within the allotted time and flows smoothly.</li>
+</ol>
+<h3 id="final-steps">Final Steps</h3>
+<ul>
+<li><strong>Review and Revise</strong>: Carefully review both your summary and presentation. Check for adherence to Avkalan Labs' guidelines, spelling errors, and clarity.</li>
+<li><strong>Feedback</strong>: If possible, get feedback from a colleague or mentor and make necessary adjustments.</li>
+<li><strong>Submission</strong>: Submit your summary and prepare to deliver your presentation, equipped with knowledge and confidence in your research findings.</li>
+</ul>
+<p>This guide provides a foundational structure for presenting your Master's research at Avkalan Labs. Adjustments may be necessary based on specific project requirements or guidelines provided by Avkalan Labs.</p>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../3_animation/" class="btn btn-neutral float-left" title="3 animation"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../../3_use_of_digital_world/1_linkedin_profile_setup/" class="btn btn-neutral float-right" title="1 linkedin profile setup">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../../4_recommendations/3_good_sites_to_upgrade/" class="btn btn-neutral float-left" title="3 good sites to upgrade"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../1_writing_tools/" class="btn btn-neutral float-right" title="1 writing tools">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -159,10 +249,10 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../3_animation/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../../4_recommendations/3_good_sites_to_upgrade/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
-      <span><a href="../../3_use_of_digital_world/1_linkedin_profile_setup/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../1_writing_tools/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
