@@ -2,6 +2,11 @@
 
 Welcome to your guide on using Obsidian, our chosen tool for efficient note-taking, knowledge management, and information organization. This guide will walk you through our specific practices for using Obsidian and introduce you to its advanced features.
 
+### Download the obsidian
+- Go to [Obsidian](https://obsidian.md/). ![](attachments/Screenshot%202024-03-13%20at%207.33.49%20PM.png)
+- Go to [sign up](https://obsidian.md/account#signup)![](attachments/Screenshot%202024-03-13%20at%207.34.18%20PM.png)
+
+- Create an account and start using the obsidian in you Desktop or Mac. 
 #### Organizational Structure and Naming Convention:
 
 - **Folder Structure**: Create a dedicated folder for each project or topic.
