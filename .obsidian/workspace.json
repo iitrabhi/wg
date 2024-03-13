@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md",
+                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md",
+                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md",
+                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md"
+                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md"
               }
             }
           },
@@ -232,6 +232,10 @@
   },
   "active": "50ac847997a7c10f",
   "lastOpenFiles": [
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.46.08 PM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.44.31 PM 1.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.44.31 PM.png",
+    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.34.18 PM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.33.49 PM.png",
     "mkdocs/docs/1_setting_up_system/attachments",
@@ -257,7 +261,6 @@
     "mkdocs/docs/1_setting_up_system/1_introduction.md",
     "mkdocs/docs/1_setting_up_system/0_digital_you.md",
     "mkdocs/docs/1_setting_up_system/5_git_hub.md",
-    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "README.md",
     "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
     "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
@@ -274,10 +277,7 @@
     "mkdocs/docs/2_brand_guidelines/2_video.md",
     "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
     "mkdocs/docs/img/favicon.png",
-    "mkdocs/docs/img/logo-2.svg",
-    "mkdocs/docs/img/My Notes.svg",
     "mkdocs/docs/3_chapter/1_motivation.md",
-    "mkdocs/site/css/fonts/fontawesome-webfont.svg",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",
