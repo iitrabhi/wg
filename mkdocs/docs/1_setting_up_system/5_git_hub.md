@@ -1,21 +1,19 @@
 ### Setting Up and Using Git
 
 #### Setting Up Git:
-
-1. **Create a Git Account**:
-    
-    - Visit [GitHub.com](https://github.com/) and sign up for an account.
-    - Complete the registration process by providing your details.
+##### **Create a Git Account**:
+-  Visit [GitHub.com](https://github.com/) and sign up for an account.
+- Complete the registration process by providing your details.
 2. **Download and Install Git Desktop**:
-	###### Part 1: Installing GitHub Desktop
+	###### Part 1: Installing GitHub Desktop which looks like this. 
 	![](attachments/Screenshot%202024-03-13%20at%207.46.08%20PM.png)
 	- You can install GitHub Desktop on any supported operating system. For more information, see "Supported operating systems for GitHub Desktop."
 	- To install GitHub Desktop, navigate to https://desktop.github.com/ and download the appropriate version of GitHub Desktop for your operating system. Follow the prompts to complete the installation. For more information, see "Installing GitHub Desktop."
 	###### Part 2: Configuring your account
 	- If you have an account on GitHub or GitHub Enterprise, you can use GitHub Desktop to exchange data between your local and remote repositories.
-		**Creating an account**
-	- If you do not already have an account on GitHub.com, create one now. For more information, see "Creating an account on GitHub."
-		**Authenticating to GitHub**
+		###### **Creating an account**
+	- If you do not already have an account on GitHub.com, create one now. For more information, see [Create git account](5_git_hub.md)
+		###### **Authenticating to GitHub**
 	- To connect to GitHub Desktop with GitHub, you'll need to authenticate your account. For more information, see "Authenticating to GitHub in GitHub Desktop." 
 	- After authenticating your account, you are ready to manage and contribute to projects with GitHub Desktop.
 	###### Part 3: Configuring Git
@@ -28,14 +26,14 @@
 	- You can open a text editor from GitHub Desktop to manipulate files and repositories. GitHub Desktop supports a variety of text editors and integrated development environments (IDEs) for Windows and macOS. You can choose a default editor in the GitHub Desktop settings. For more information, see "Configuring a default editor in GitHub Desktop."
 
 3. **Login to GitHub Desktop**:
-    - Open GitHub Desktop and log in using your GitHub account credentials.
+    
 
 #### Creating a Repository Using a Template:
 
 1. **Search for a Template Repository**:
     
-    - In your web browser, go to GitHub and search for the user `iitrabhi`.
-    - Find the repository named `project-template`.
+    - In your web browser, go to GitHub and search for the user `iitrabhi`.![](attachments/Screenshot%202024-03-13%20at%208.03.44%20PM.png)
+    - Find the repository named `project-template`.![](attachments/Screenshot%202024-03-13%20at%208.04.22%20PM.png)
 2. **Use the Template**:
     
     - Click on `Use this template`.

@@ -52,19 +52,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ac847997a7c10f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
                 "mode": "source",
                 "backlinks": false,
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,8 +217,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50ac847997a7c10f",
+  "active": "f5e6a92c9b7ff527",
   "lastOpenFiles": [
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 8.04.22 PM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 8.03.44 PM.png",
+    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+    "mkdocs/docs/1_setting_up_system/Create.md",
+    "mkdocs/docs/1_setting_up_system/5_git_hub.md",
     "docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.34.18 PM.png",
     "docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.33.49 PM.png",
     "docs/1_setting_up_system/attachments",
@@ -245,7 +237,6 @@
     "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
     "docs/5_research_working_guidelines/0_first_work_in_lab/index.html",
     "docs/5_research_working_guidelines/0_first_work_in_lab",
-    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "docs/5_research_working_guidelines/3_fenics/index.html",
@@ -256,13 +247,10 @@
     "docs/5_research_working_guidelines/Untitled 1/index.html",
     "docs/5_research_working_guidelines/1_writing_tools/index.html",
     "docs/css/fonts/fontawesome-webfont.svg",
-    "docs/img/logo.svg",
-    "mkdocs/docs/5_research_working_guidelines/attachments/Pasted image 20240208221851.png",
     "mkdocs/docs/1_setting_up_system/2_markdown.md",
     "mkdocs/docs/1_setting_up_system/3_slack.md",
     "mkdocs/docs/1_setting_up_system/1_introduction.md",
     "mkdocs/docs/1_setting_up_system/0_digital_you.md",
-    "mkdocs/docs/1_setting_up_system/5_git_hub.md",
     "README.md",
     "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
     "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
@@ -277,7 +265,6 @@
     "mkdocs/docs/2_brand_guidelines/3_animation.md",
     "mkdocs/docs/2_brand_guidelines/2_video.md",
     "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
-    "mkdocs/docs/3_chapter/1_motivation.md",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",
