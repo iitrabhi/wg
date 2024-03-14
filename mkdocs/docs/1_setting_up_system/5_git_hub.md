@@ -36,9 +36,10 @@
     - Find the repository named `project-template`.![](attachments/Screenshot%202024-03-13%20at%208.04.22%20PM.png)
 2. **Use the Template**:
     
-    - Click on `Use this template`.
-    - Give your new repository a name and set it to a private repository.
-3. **What is a Repository?**:
+    - Click on `Use this template`.![](attachments/Screenshot%202024-03-14%20at%205.41.59%20AM.png)
+    - Go to create repository. ![](attachments/Screenshot%202024-03-14%20at%205.43.25%20AM.png)
+    - Give your new repository a name and set it to a private repository.![](attachments/Screenshot%202024-03-14%20at%205.43.38%20AM.png)
+1. **What is a Repository?**:
     
     - A repository, often abbreviated as repo, is a storage space where your project lives. It can contain folders and files, images, videos, spreadsheets, and data sets - anything your project needs.
 
@@ -54,11 +55,12 @@
 #### Adding Collaborators:
 
 1. **Go to Repository Settings**:
-    - In your GitHub repository, click on `Settings`.
+    - In your GitHub repository, click on `Settings`.![](attachments/Screenshot%202024-03-14%20at%205.47.11%20AM.png)
 2. **Add Collaborators**:
-    - Navigate to `Collaborators`.
-    - Click on `Add People` and enter their GitHub usernames.
-
+    - Navigate to `Collaborators`.![](attachments/Screenshot%202024-03-14%20at%205.47.30%20AM.png)
+    - Click on `Add People` and enter their GitHub usernames.![](attachments/Screenshot%202024-03-14%20at%205.47.45%20AM.png)
+	- Type the name of collaborator. ![](attachments/Screenshot%202024-03-14%20at%205.48.05%20AM.png)
+	- You will find this dialogue on the page. Your work is done.![](attachments/Screenshot%202024-03-14%20at%205.48.25%20AM.png)
 #### Workflow Reminder:
 
 - Always remember to `fetch origin` and `pull` before you start working on your local repository.
