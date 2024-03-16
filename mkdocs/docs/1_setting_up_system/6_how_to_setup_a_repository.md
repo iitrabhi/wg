@@ -17,4 +17,6 @@ In the earlier step, we created the repository in the GitHub account. In this st
 2. You will find three options, select the clone repository. ![](attachments/Screenshot%202024-03-16%20at%205.24.16%20AM.png)
 3. Type the repository name which you have created in GitHub.com.![](attachments/Screenshot%202024-03-16%20at%205.24.28%20AM.png)
 4. Like we have typed `meso`.![](attachments/Screenshot%202024-03-16%20at%205.24.44%20AM.png)
-5. 
+5. Now select the repository and click the clone button and you are done. You have cloned you repository in the local path give or you can change the location by clicking `choose`.![](attachments/Screenshot%202024-03-16%20at%205.24.44%20AM%201.png)
+## How to open the repository in Obsidian
+1. 
