@@ -9,3 +9,12 @@
 8. You will get two options. Select the `Create a new repository`. ![](attachments/Screenshot%202024-03-16%20at%205.43.06%20AM.png)
 9. You will find the new window, asking for repository name, description and status `Public` or `Private`.![](attachments/Screenshot%202024-03-16%20at%205.20.02%20AM.png)
 10. Give a name to the repository, add some description to it, and then set the status as `Private`.![](attachments/Screenshot%202024-03-16%20at%205.21.35%20AM.png)
+11. This is how your repository will look. Now you can update or edit the readme file, which explains your work and helps collaborators recognise the work they are doing with you. ![](attachments/Screenshot%202024-03-16%20at%205.22.12%20AM.png)
+12. Now you have created the repository in your GitHub account. 
+## Cloning the repository in your local system
+In the earlier step, we created the repository in the GitHub account. In this step, we will clone that repository to the local system.
+1. Open the GitHub desktop in your system which you have learned to install in the previous section. Go to Add.![](attachments/Screenshot%202024-03-16%20at%205.24.00%20AM.png)
+2. You will find three options, select the clone repository. ![](attachments/Screenshot%202024-03-16%20at%205.24.16%20AM.png)
+3. Type the repository name which you have created in GitHub.com.![](attachments/Screenshot%202024-03-16%20at%205.24.28%20AM.png)
+4. Like we have typed `meso`.![](attachments/Screenshot%202024-03-16%20at%205.24.44%20AM.png)
+5. 
