@@ -1,0 +1,11 @@
+## Creating a repository in GitHub
+1. Login to your github account.![](attachments/Screenshot%202024-03-16%20at%205.16.43%20AM.png)
+2. Go to search tab and search for `iitrabhi`. ![](attachments/Screenshot%202024-03-16%20at%205.17.15%20AM.png)
+3. You will find the account as shown.![](attachments/Screenshot%202024-03-16%20at%205.17.40%20AM%202.png)
+4. It will look like this. You can notice the repositories tab in the page. ![](attachments/Screenshot%202024-03-16%20at%205.18.42%20AM.png)
+5. Click the repository and go to find repository as shown. ![](attachments/Screenshot%202024-03-16%20at%205.19.03%20AM.png)
+6. Type project there, you will find the project template as shown.![](attachments/Screenshot%202024-03-16%20at%205.19.31%20AM.png)
+7. Go to use this template button, and click it. ![](attachments/Screenshot%202024-03-16%20at%205.19.47%20AM.png)
+8. You will get two options. Select the `Create a new repository`. ![](attachments/Screenshot%202024-03-16%20at%205.43.06%20AM.png)
+9. You will find the new window, asking for repository name, description and status `Public` or `Private`.![](attachments/Screenshot%202024-03-16%20at%205.20.02%20AM.png)
+10. Give a name to the repository, add some description to it, and then set the status as `Private`.![](attachments/Screenshot%202024-03-16%20at%205.21.35%20AM.png)

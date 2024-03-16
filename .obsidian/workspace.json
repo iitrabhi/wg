@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a05b18dcc03ed94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
+                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
+                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md"
+                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md"
               }
             }
           },
@@ -217,24 +230,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5e6a92c9b7ff527",
+  "active": "a05b18dcc03ed94b",
   "lastOpenFiles": [
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.48.25 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.48.05 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.47.45 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.47.30 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.47.11 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.43.38 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.43.25 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-14 at 5.41.59 AM.png",
-    "docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 8.04.22 PM.png",
-    "docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 8.03.44 PM.png",
-    "docs/1_setting_up_system/attachments/Screenshot 2024-03-13 at 7.46.08 PM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.21.35 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.20.02 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.43.06 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.19.47 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.19.31 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.19.03 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.18.42 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.17.40 AM 2.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.17.40 AM 1.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.17.40 AM.png",
+    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.17.15 AM.png",
+    "mkdocs/docs/1_setting_up_system/5_git_hub.md",
+    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "mkdocs/docs/1_setting_up_system/Create.md",
-    "mkdocs/docs/1_setting_up_system/5_git_hub.md",
     "docs/1_setting_up_system/attachments",
-    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "mkdocs/docs/1_setting_up_system/attachments",
     "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
     "docs/5_research_working_guidelines/0_first_work_in_lab/index.html",
@@ -264,7 +278,6 @@
     "mkdocs/docs/2_brand_guidelines/1_blogging.md",
     "mkdocs/docs/2_brand_guidelines/3_animation.md",
     "mkdocs/docs/2_brand_guidelines/2_video.md",
-    "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",

@@ -6,7 +6,7 @@ Welcome to your guide on using Obsidian, our chosen tool for efficient note-taki
 - Go to [Obsidian](https://obsidian.md/). ![](attachments/Screenshot%202024-03-13%20at%207.33.49%20PM.png)
 - Go to [sign up](https://obsidian.md/account#signup)![](attachments/Screenshot%202024-03-13%20at%207.34.18%20PM.png)
 
-- Create an account and start using the obsidian in you Desktop or Mac. 
+- Create an account and start using the Obsidian on your Desktop or Mac. 
 #### Organizational Structure and Naming Convention:
 
 - **Folder Structure**: Create a dedicated folder for each project or topic.
