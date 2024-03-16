@@ -26,4 +26,4 @@ In the earlier step, we created the repository in the GitHub account. In this st
 5. Close the another popup. ![](attachments/Screenshot%202024-03-16%20at%205.26.11%20AM.png)
 6. Finally, you have created the repository, which is GitHub synced. ![](attachments/Screenshot%202024-03-16%20at%205.26.29%20AM.png)
 7. You will find the left ribbon and right ribbon in obsidian. Right-click on the left ribbon and remove the `Open common plate`, `Insert template` and `templater`.  ![](attachments/Screenshot%202024-03-16%20at%205.26.57%20AM.png)
-8. You are done with the project template setting at Avakaln. 
+8. You are done with the project template setting for Avakaln. 
