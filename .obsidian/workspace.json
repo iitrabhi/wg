@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md"
+                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md"
               }
             }
           },
@@ -232,6 +232,10 @@
   },
   "active": "a05b18dcc03ed94b",
   "lastOpenFiles": [
+    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+    "mkdocs/docs/index.md",
+    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+    "mkdocs/docs/2_brand_guidelines/2_video.md",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.57 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.29 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.11 AM.png",
@@ -242,11 +246,9 @@
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.36 AM 1.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.36 AM.png",
     "docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.24.44 AM 1.png",
-    "docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.24.44 AM.png",
     "docs/1_setting_up_system/6_how_to_setup_a_repository/index.html",
     "docs/1_setting_up_system/6_how_to_setup_a_repository",
     "mkdocs/docs/1_setting_up_system/5_git_hub.md",
-    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
     "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "mkdocs/docs/1_setting_up_system/Create.md",
@@ -271,13 +273,10 @@
     "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
     "mkdocs/docs/4_recommendations/2_good_video_series.md",
     "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
-    "mkdocs/docs/index.md",
     "mkdocs/docs/3_use_of_digital_world/2_facebook_setup.md",
     "mkdocs/docs/3_use_of_digital_world/1_linkedin_profile_setup.md",
     "mkdocs/docs/4_recommendations/1_good_books.md",
-    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
     "mkdocs/docs/2_brand_guidelines/3_animation.md",
-    "mkdocs/docs/2_brand_guidelines/2_video.md",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",

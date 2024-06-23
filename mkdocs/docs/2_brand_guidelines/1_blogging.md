@@ -70,3 +70,9 @@
 
 - Ensure images are of high resolution and quality. Use 960 x 540. 
 - Use [Birme](https://www.birme.net/?target_width=1200&target_height=1500&auto_focal=false) for image modification.  
+## How to create engaging blog
+It is very easy to create your blog and your thoughts, but no body will read it. People come the internet to find the answer for their question. So you should follow the following steps to create a good blog. 
+### Step-1 Address your reader from first sentence 
+You want to connect with your content, and you can accomplish that by talking directly to them. **Use the word "You" or directly ask your readers a question**. 
+Through this technique, you create an emotional bond with your audience that they can't ignore. 
+On the other hand, when you launch by talking about your own stories and success. it's easier to lose readers because they aren't personally invested in your blog post. 
