@@ -3,6 +3,7 @@
 ---
 
 ### Blog Content: Engaging Approach 
+> People come to the internet to solve their problems they are not interested in your stories. 
 
 **Introduction**
 
@@ -35,7 +36,38 @@
 - Conclude by emphasizing the effectiveness of this teaching approach.
 
 ---
+### Use H2 Headings Only
 
+- **Consistent Formatting**: All headings should be formatted using H2 tags to maintain uniformity and readability throughout the blog.
+
+### Proper Figure Captions
+
+- **Clear Captions**: Every figure or image must have a descriptive caption that explains its relevance and content. This helps readers understand the visual elements without confusion.
+
+### Bulleted Points with Explanatory Headings
+
+- **Explanatory Headings**: Always precede bulleted lists with a heading that explains what the list is about. This provides context and enhances comprehension.
+- **Bulleted Lists**: Use bullet points to break down information into manageable chunks. This makes the content more accessible and easier to read.
+
+### Key Learning Summary
+
+- **Summary of Key Learnings**: Conclude the blog with a summary of the key points covered. This reinforces the main takeaways and aids in retention.
+
+### Internal and External Links
+
+- **Connecting Content**: Link to related posts within your blog to encourage readers to explore more of your content. Use external links to credible sources for additional information and to enhance the credibility of your blog.
+
+### Introduction with Blog Overview
+
+- **Preview the Content**: In the first paragraph, inform the reader what they will learn in the blog. This sets clear expectations and engages their interest from the start.
+
+### Relate to Nearby Objects
+
+- **Real-World Connections**: Relate mechanical principles to everyday objects familiar to the reader. This makes abstract concepts more tangible and relatable.
+
+### Question Format for Side Headings
+
+- **User-Centric Headings**: Formulate side headings as questions that a user might search for on Google. This approach enhances SEO and aligns with readers' natural search behavior.
 ### Image Format: Minimalistic and Hand-Drawn Approach
 
 **Minimalistic Design Philosophy**
@@ -70,9 +102,4 @@
 
 - Ensure images are of high resolution and quality. Use 960 x 540. 
 - Use [Birme](https://www.birme.net/?target_width=1200&target_height=1500&auto_focal=false) for image modification.  
-## How to create engaging blog
-It is very easy to create your blog and your thoughts, but no body will read it. People come the internet to find the answer for their question. So you should follow the following steps to create a good blog. 
-### Step-1 Address your reader from first sentence 
-You want to connect with your content, and you can accomplish that by talking directly to them. **Use the word "You" or directly ask your readers a question**. 
-Through this technique, you create an emotional bond with your audience that they can't ignore. 
-On the other hand, when you launch by talking about your own stories and success. it's easier to lose readers because they aren't personally invested in your blog post. 
+

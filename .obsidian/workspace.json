@@ -4,63 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d01b6613e4e91d",
+        "id": "29ab17738b333180",
         "type": "tabs",
         "children": [
           {
-            "id": "188cfe78027683be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd03acb41e91f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/1_setting_up_system/3_slack.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32661aab5d470936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e6a92c9b7ff527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/1_setting_up_system/5_git_hub.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a05b18dcc03ed94b",
+            "id": "fbe6669d645a028a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,12 +177,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a05b18dcc03ed94b",
+  "active": "fbe6669d645a028a",
   "lastOpenFiles": [
-    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
-    "mkdocs/docs/index.md",
-    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
+    "mkdocs/docs/5_research_working_guidelines/2_python.md",
+    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/2_brand_guidelines/2_video.md",
+    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+    "mkdocs/docs/index.md",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.57 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.29 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.11 AM.png",
@@ -250,15 +201,11 @@
     "docs/1_setting_up_system/6_how_to_setup_a_repository",
     "mkdocs/docs/1_setting_up_system/5_git_hub.md",
     "mkdocs/docs/1_setting_up_system/4_obsidian.md",
-    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "mkdocs/docs/1_setting_up_system/Create.md",
     "docs/1_setting_up_system/attachments",
     "mkdocs/docs/1_setting_up_system/attachments",
-    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
     "docs/5_research_working_guidelines/0_first_work_in_lab/index.html",
     "docs/5_research_working_guidelines/0_first_work_in_lab",
-    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
-    "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "docs/5_research_working_guidelines/3_fenics/index.html",
     "docs/5_research_working_guidelines/3_fenics",
     "docs/5_research_working_guidelines/2_python/index.html",
