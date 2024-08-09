@@ -4,28 +4,28 @@
 The following points outline how different types of mathematical entities should be formatted to ensure clarity and distinction in scientific documents:
 
 1. **Variables in Italic Font**
-   - Variables such as $t$, $T$, $m$, etc., are written in italic. This style distinguishes them as mathematical entities that represent quantities which can vary or hold specific values in equations.
-   - **Example**: In the acceleration formula $a = \frac{dv}{dt}$, both $v$ (velocity) and $t$ (time) are in italics.
+	   - Variables such as $t$, $T$, $m$, etc., are written in italic. This style distinguishes them as mathematical entities that represent quantities which can vary or hold specific values in equations.
+	   - **Example**: In the acceleration formula $a = \frac{dv}{dt}$, both $v$ (velocity) and $t$ (time) are in italics.
 
 2. **Bold Symbols for Different Entities**
-   - Symbols in bold, such as $\mathbf{m}$, often represent matrices or vectors, which are distinct from scalar variables.
-   - **Example**: In vector notation $\mathbf{m} = \begin{bmatrix} m_1 \\ m_2 \\ m_3 \end{bmatrix}$, $\mathbf{m}$ represents a vector.
+	   - Symbols in bold, such as $\mathbf{m}$, often represent matrices or vectors, which are distinct from scalar variables.
+	   - **Example**: In vector notation $\mathbf{m} = \begin{bmatrix} m_1 \\ m_2 \\ m_3 \end{bmatrix}$, $\mathbf{m}$ represents a vector.
 
 3. **Real Numbers and Constants in Regular Font**
-   - Real numbers and constants are written in regular, non-italic font to differentiate them from variables.
-   - **Example**: The number $\pi$ is often shown in regular font: $\text{Circumference} = 2\pi r$.
+	   - Real numbers and constants are written in regular, non-italic font to differentiate them from variables.
+	   - **Example**: The number $\pi$ is often shown in regular font: $\text{Circumference} = 2\pi r$.
 
 4. **Units in Regular Font**
-   - Units such as meters (m), seconds (s), etc., are written in regular font to clearly separate them from variable names.
-   - **Example**: In the force formula $F = ma$, "kg" for kilograms is in regular font.
+	   - Units such as meters (m), seconds (s), etc., are written in regular font to clearly separate them from variable names.
+	   - **Example**: In the force formula $F = ma$, "kg" for kilograms is in regular font.
 
 5. **Functions in Regular Font**
-   - Mathematical functions like sin, cos, log, etc., are written in regular font.
-   - **Example**: In the sine function $y = \sin(x)$.
+	   - Mathematical functions like sin, cos, log, etc., are written in regular font.
+	   - **Example**: In the sine function $y = \sin(x)$.
 
 6. **Matrices in Bold Font**
-   - Matrices are always in bold and never italicized or slanted.
-   - **Example**: For a matrix $\mathbf{A} = \begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix}$.
+	   - Matrices are always in bold and never italicized or slanted.
+	   - **Example**: For a matrix $\mathbf{A} = \begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix}$.
 
 ### **Case Sensitivity in Units**
 It is crucial not to capitalize units improperly as it changes their meaning:
@@ -49,10 +49,10 @@ It is crucial not to capitalize units improperly as it changes their meaning:
 These examples illustrate how the guidelines are applied in scientific formulas and equations:
 
 1. **Variable and Unit Distinction**
-	   - **Example**: $m = (250.0 \frac{a}{m}) \, \text{kg}$ shows $m$ as a mass variable in italic, $a$ as a length variable in italic, and $m$ in the fraction as meters in regular font.
+	- **Example**: $m = (250.0 \frac{a}{m}) \, \text{kg}$ shows $m$ as a mass variable in italic, $a$ as a length variable in italic, and $m$ in the fraction as meters in regular font.
 
 2. **Gradient and Divergence Operations**
-	   - **Gradient of a Vector Field $\mathbf{u}$**:
+	 - **Gradient of a Vector Field $\mathbf{u}$**:
      $$
      \nabla \mathbf{u} = \begin{bmatrix} 
      \frac{\partial u_1}{\partial x_1} & \cdots & \frac{\partial u_1}{\partial x_d} \\
