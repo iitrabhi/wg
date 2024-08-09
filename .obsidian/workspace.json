@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+                "file": "mkdocs/docs/2_brand_guidelines/2_video.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+                "file": "mkdocs/docs/2_brand_guidelines/2_video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+                "file": "mkdocs/docs/2_brand_guidelines/2_video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md"
+                "file": "mkdocs/docs/2_brand_guidelines/2_video.md"
               }
             }
           },
@@ -193,14 +193,14 @@
   },
   "active": "ccf77ce9ee51020e",
   "lastOpenFiles": [
+    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+    "mkdocs/docs/2_brand_guidelines/2_video.md",
     "docs/5_research_working_guidelines/4_writing_mathematics/index.html",
     "docs/5_research_working_guidelines/4_writing_mathematics",
-    "mkdocs/docs/2_brand_guidelines/2_video.md",
     "mkdocs/docs/2_brand_guidelines/3_animation.md",
     "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
     "README.md",
     "mkdocs/docs/index.md",
-    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
     "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
@@ -228,7 +228,6 @@
     "docs/5_research_working_guidelines/0_first_work_in_lab",
     "docs/5_research_working_guidelines/3_fenics/index.html",
     "docs/5_research_working_guidelines/3_fenics",
-    "docs/5_research_working_guidelines/2_python/index.html",
     "mkdocs/docs/1_setting_up_system/2_markdown.md",
     "mkdocs/docs/1_setting_up_system/3_slack.md",
     "mkdocs/docs/1_setting_up_system/1_introduction.md",
