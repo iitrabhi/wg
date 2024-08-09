@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>2 python - My Notes</title>
+    <title>4 writing mathematics - My Notes</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
@@ -14,8 +14,8 @@
     
       <script>
         // Current page data
-        var mkdocs_page_name = "2 python";
-        var mkdocs_page_input_path = "5_research_working_guidelines/2_python.md";
+        var mkdocs_page_name = "4 writing mathematics";
+        var mkdocs_page_input_path = "5_research_working_guidelines/4_writing_mathematics.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -102,11 +102,19 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../1_writing_tools/">1 writing tools</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">2 python</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_python/">2 python</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../3_fenics/">3 fenics</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../4_writing_mathematics/">4 writing mathematics</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">4 writing mathematics</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#font-usage-and-symbol-distinctions">Font Usage and Symbol Distinctions</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#case-sensitivity-in-units">Case Sensitivity in Units</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#examples-of-guidelines-in-use">Examples of Guidelines in Use</a>
+    </li>
+    </ul>
                   </li>
               </ul>
       </div>
@@ -124,7 +132,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">5 research working guidelines</li>
-      <li class="breadcrumb-item active">2 python</li>
+      <li class="breadcrumb-item active">4 writing mathematics</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -133,13 +141,150 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                
+                <h2 id="comprehensive-guidelines-for-mathematical-typesetting-in-scientific-writing">Comprehensive Guidelines for Mathematical Typesetting in Scientific Writing</h2>
+<h3 id="font-usage-and-symbol-distinctions"><strong>Font Usage and Symbol Distinctions</strong></h3>
+<p>The following points outline how different types of mathematical entities should be formatted to ensure clarity and distinction in scientific documents:</p>
+<ol>
+<li><strong>Variables in Italic Font</strong></li>
+<li>Variables such as <span class="arithmatex">\(t\)</span>, <span class="arithmatex">\(T\)</span>, <span class="arithmatex">\(m\)</span>, etc., are written in italic. This style distinguishes them as mathematical entities that represent quantities which can vary or hold specific values in equations.</li>
+<li>
+<p><strong>Example</strong>: In the acceleration formula <span class="arithmatex">\(a = \frac{dv}{dt}\)</span>, both <span class="arithmatex">\(v\)</span> (velocity) and <span class="arithmatex">\(t\)</span> (time) are in italics.</p>
+</li>
+<li>
+<p><strong>Bold Symbols for Different Entities</strong></p>
+</li>
+<li>Symbols in bold, such as <span class="arithmatex">\(\mathbf{m}\)</span>, often represent matrices or vectors, which are distinct from scalar variables.</li>
+<li>
+<p><strong>Example</strong>: In vector notation <span class="arithmatex">\(\mathbf{m} = \begin{bmatrix} m_1 \\ m_2 \\ m_3 \end{bmatrix}\)</span>, <span class="arithmatex">\(\mathbf{m}\)</span> represents a vector.</p>
+</li>
+<li>
+<p><strong>Real Numbers and Constants in Regular Font</strong></p>
+</li>
+<li>Real numbers and constants are written in regular, non-italic font to differentiate them from variables.</li>
+<li>
+<p><strong>Example</strong>: The number <span class="arithmatex">\(\pi\)</span> is often shown in regular font: <span class="arithmatex">\(\text{Circumference} = 2\pi r\)</span>.</p>
+</li>
+<li>
+<p><strong>Units in Regular Font</strong></p>
+</li>
+<li>Units such as meters (m), seconds (s), etc., are written in regular font to clearly separate them from variable names.</li>
+<li>
+<p><strong>Example</strong>: In the force formula <span class="arithmatex">\(F = ma\)</span>, "kg" for kilograms is in regular font.</p>
+</li>
+<li>
+<p><strong>Functions in Regular Font</strong></p>
+</li>
+<li>Mathematical functions like sin, cos, log, etc., are written in regular font.</li>
+<li>
+<p><strong>Example</strong>: In the sine function <span class="arithmatex">\(y = \sin(x)\)</span>.</p>
+</li>
+<li>
+<p><strong>Matrices in Bold Font</strong></p>
+</li>
+<li>Matrices are always in bold and never italicized or slanted.</li>
+<li><strong>Example</strong>: For a matrix <span class="arithmatex">\(\mathbf{A} = \begin{bmatrix} a_{11} &amp; a_{12} \\ a_{21} &amp; a_{22} \end{bmatrix}\)</span>.</li>
+</ol>
+<h3 id="case-sensitivity-in-units"><strong>Case Sensitivity in Units</strong></h3>
+<p>It is crucial not to capitalize units improperly as it changes their meaning:</p>
+<ul>
+<li>Incorrect capitalization like "Kg" instead of "kg" would imply Kelvin multiplied by grams, which is incorrect. Proper use of case in units ensures the correct interpretation of scientific data.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><strong>Unit</strong></th>
+<th><strong>Correct Usage</strong></th>
+<th><strong>Incorrect Usage</strong></th>
+<th><strong>Implication of Incorrect Usage</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kilogram</td>
+<td>kg</td>
+<td>Kg</td>
+<td>Kg could be misinterpreted as Kelvin multiplied by gram.</td>
+</tr>
+<tr>
+<td>Meter</td>
+<td>m</td>
+<td>M</td>
+<td>M is a prefix for mega (<span class="arithmatex">\(10^6\)</span>), not meter.</td>
+</tr>
+<tr>
+<td>Second</td>
+<td>s</td>
+<td>S</td>
+<td>S denotes Siemens, a unit of electrical conductance.</td>
+</tr>
+<tr>
+<td>Ampere</td>
+<td>A</td>
+<td>a (if used incorrectly)</td>
+<td>"a" isn't used, but small case could confuse as it isn't standard.</td>
+</tr>
+<tr>
+<td>Watt</td>
+<td>W</td>
+<td>w</td>
+<td>Lowercase "w" is not standard and can lead to confusion.</td>
+</tr>
+<tr>
+<td>Newton</td>
+<td>N</td>
+<td>n</td>
+<td>Lowercase "n" could be mistaken for nano when used as a prefix.</td>
+</tr>
+<tr>
+<td>Joule</td>
+<td>J</td>
+<td>j</td>
+<td>Lowercase "j" is not recognized as the standard unit for energy.</td>
+</tr>
+<tr>
+<td>Volt</td>
+<td>V</td>
+<td>v</td>
+<td>Lowercase "v" could lead to confusion as it isn't the standard symbol.</td>
+</tr>
+<tr>
+<td>Gram</td>
+<td>g</td>
+<td>G</td>
+<td>G often represents the gravitational constant in physics.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="examples-of-guidelines-in-use"><strong>Examples of Guidelines in Use</strong></h3>
+<p>These examples illustrate how the guidelines are applied in scientific formulas and equations:</p>
+<ol>
+<li><strong>Variable and Unit Distinction</strong></li>
+<li>
+<p><strong>Example</strong>: <span class="arithmatex">\(m = (250.0 \frac{a}{m}) \, \text{kg}\)</span> shows <span class="arithmatex">\(m\)</span> as a mass variable in italic, <span class="arithmatex">\(a\)</span> as a length variable in italic, and <span class="arithmatex">\(m\)</span> in the fraction as meters in regular font.</p>
+</li>
+<li>
+<p><strong>Gradient and Divergence Operations</strong></p>
+</li>
+<li><strong>Gradient of a Vector Field <span class="arithmatex">\(\mathbf{u}\)</span></strong>:
+     $$
+     \nabla \mathbf{u} = \begin{bmatrix} 
+     \frac{\partial u_1}{\partial x_1} &amp; \cdots &amp; \frac{\partial u_1}{\partial x_d} \
+     \vdots &amp; \ddots &amp; \vdots \
+     \frac{\partial u_d}{\partial x_1} &amp; \cdots &amp; \frac{\partial u_d}{\partial x_d}
+     \end{bmatrix}
+     $$
+     This tensor contains all partial derivatives of a vector field <span class="arithmatex">\(\mathbf{u}\)</span>, showing the vector's change across different dimensions.</li>
+<li><strong>Divergence of a Second-Rank Tensor <span class="arithmatex">\(\boldsymbol{\sigma}\)</span></strong>:
+     $$
+     \nabla \cdot \boldsymbol{\sigma} = (\nabla \cdot \sigma_1, \ldots, \nabla \cdot \sigma_d)^T
+     $$
+     This operation computes the divergence of each row in the tensor <span class="arithmatex">\(\boldsymbol{\sigma}\)</span>, providing a vector field of divergences.</li>
+</ol>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../1_writing_tools/" class="btn btn-neutral float-left" title="1 writing tools"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../3_fenics/" class="btn btn-neutral float-right" title="3 fenics">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../3_fenics/" class="btn btn-neutral float-left" title="3 fenics"><span class="icon icon-circle-arrow-left"></span> Previous</a>
     </div>
 
   <hr/>
@@ -163,10 +308,8 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../1_writing_tools/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../3_fenics/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
-    
-      <span><a href="../3_fenics/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
