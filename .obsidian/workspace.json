@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccf77ce9ee51020e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/2_brand_guidelines/1_blogging.md"
+                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md"
               }
             }
           },
@@ -177,15 +191,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbe6669d645a028a",
+  "active": "ccf77ce9ee51020e",
   "lastOpenFiles": [
-    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
-    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
-    "mkdocs/docs/5_research_working_guidelines/2_python.md",
     "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
+    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+    "mkdocs/docs/5_research_working_guidelines/2_python.md",
+    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
+    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
     "mkdocs/docs/2_brand_guidelines/2_video.md",
     "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
-    "mkdocs/docs/2_brand_guidelines/1_blogging.md",
     "mkdocs/docs/index.md",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.57 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.29 AM.png",
