@@ -4,12 +4,12 @@
 The following points outline how different types of mathematical entities should be formatted to ensure clarity and distinction in scientific documents:
 
 1. **Variables in Italic Font**
-	Variables such as $t$, $T$, $m$, etc., are written in italic. This style distinguishes them as mathematical entities that represent quantities which can vary or hold specific values in equations.
-	**Example**: In the acceleration formula $a = \frac{dv}{dt}$, both $v$ (velocity) and $t$ (time) are in italics.
+	- Variables such as $t$, $T$, $m$, etc., are written in italic. This style distinguishes them as mathematical entities that represent quantities which can vary or hold specific values in equations.
+	- **Example**: In the acceleration formula $a = \frac{dv}{dt}$, both $v$ (velocity) and $t$ (time) are in italics.
 
 3. **Bold Symbols for Different Entities**
-	   - Symbols in bold, such as $\mathbf{m}$, often represent matrices or vectors, which are distinct from scalar variables.
-	   - **Example**: In vector notation $\mathbf{m} = \begin{bmatrix} m_1 \\ m_2 \\ m_3 \end{bmatrix}$, $\mathbf{m}$ represents a vector.
+	- Symbols in bold, such as $\mathbf{m}$, often represent matrices or vectors, which are distinct from scalar variables.
+	-  **Example**: In vector notation $\mathbf{m} = \begin{bmatrix} m_1 \\ m_2 \\ m_3 \end{bmatrix}$, $\mathbf{m}$ represents a vector.
 
 4. **Real Numbers and Constants in Regular Font**
 	   - Real numbers and constants are written in regular, non-italic font to differentiate them from variables.
