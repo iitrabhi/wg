@@ -49,10 +49,10 @@ It is crucial not to capitalize units improperly as it changes their meaning:
 These examples illustrate how the guidelines are applied in scientific formulas and equations:
 
 1. **Variable and Unit Distinction**
-   - **Example**: $m = (250.0 \frac{a}{m}) \, \text{kg}$ shows $m$ as a mass variable in italic, $a$ as a length variable in italic, and $m$ in the fraction as meters in regular font.
+	   - **Example**: $m = (250.0 \frac{a}{m}) \, \text{kg}$ shows $m$ as a mass variable in italic, $a$ as a length variable in italic, and $m$ in the fraction as meters in regular font.
 
 2. **Gradient and Divergence Operations**
-   - **Gradient of a Vector Field $\mathbf{u}$**:
+	   - **Gradient of a Vector Field $\mathbf{u}$**:
      $$
      \nabla \mathbf{u} = \begin{bmatrix} 
      \frac{\partial u_1}{\partial x_1} & \cdots & \frac{\partial u_1}{\partial x_d} \\
