@@ -1,4 +1,4 @@
-# Creating High-Quality Figures for Research Papers Using Inkscape 
+##  Creating High-Quality Figures for Research Papers Using Inkscape 
 Good quality figures play a critical role in the success of research papers, often making a significant impact during the editorial review process. In this guide, we will walk through the process of drawing high-quality figures using **Inkscape**, a free and powerful SVG (Scalable Vector Graphics) tool. Let's start by learning how to use it. 
 ## Step 1: Install Inkscape
 Inkscape is a free, open-source vector graphics editor that can be used to create figures for research papers. You can download Inkscape from the official website [here](https://inkscape.org/). Once installed, you will be ready to begin creating your own figures. 
