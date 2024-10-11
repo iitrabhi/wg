@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8392578e772ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/1_good_books.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/1_good_books.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/1_good_books.md",
+                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/4_recommendations/1_good_books.md"
+                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md"
               }
             }
           },
@@ -191,25 +204,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccf77ce9ee51020e",
+  "active": "2d8392578e772ebe",
   "lastOpenFiles": [
-    "mkdocs/docs/4_recommendations/2_good_video_series.md",
+    "mkdocs/docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.17.14 PM.png",
+    "mkdocs/docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.11.51 PM.png",
+    "mkdocs/docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.10.58 PM.png",
+    "mkdocs/docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.08.03 PM.png",
+    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+    "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
+    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
+    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
+    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
+    "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
+    "mkdocs/docs/4_recommendations/2_good_video_series.md",
     "mkdocs/docs/4_recommendations/1_good_books.md",
     "mkdocs/docs/2_brand_guidelines/2_video.md",
-    "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
-    "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
-    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
     "README.md",
     "mkdocs/docs/2_brand_guidelines/1_blogging.md",
-    "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
     "mkdocs/docs/2_brand_guidelines/3_animation.md",
     "mkdocs/docs/index.md",
     "mkdocs/docs/img/logo.svg",
     "docs/5_research_working_guidelines/4_writing_mathematics/index.html",
     "docs/5_research_working_guidelines/4_writing_mathematics",
     "mkdocs/docs/5_research_working_guidelines/2_python.md",
-    "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
     "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.57 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.29 AM.png",
@@ -217,9 +235,6 @@
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.06 AM.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.58 AM 1.png",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.58 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.47 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.36 AM 1.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.25.36 AM.png",
     "docs/1_setting_up_system/6_how_to_setup_a_repository/index.html",
     "docs/1_setting_up_system/6_how_to_setup_a_repository",
     "mkdocs/docs/1_setting_up_system/5_git_hub.md",
@@ -237,8 +252,6 @@
     "mkdocs/docs/1_setting_up_system/0_digital_you.md",
     "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
     "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
-    "mkdocs/docs/3_use_of_digital_world/5_setup_your_calander.md",
-    "mkdocs/docs/3_use_of_digital_world/2_facebook_setup.md",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",
