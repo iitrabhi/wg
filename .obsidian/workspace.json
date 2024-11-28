@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4_writing_mathematics"
             }
           },
           {
@@ -26,11 +28,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
+                "file": "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6_how_to_setup_a_repository"
+            }
+          },
+          {
+            "id": "50df0cd0df62ac70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/6_company policy/1_Weekly_planning_protocol.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_Weekly_planning_protocol"
+            }
+          },
+          {
+            "id": "492abb55cd225ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/6_company policy/2_compliance_and_accountability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2_compliance_and_accountability"
+            }
+          },
+          {
+            "id": "6ee15160470b820a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/6_company policy/2_compliance_and_accountability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2_compliance_and_accountability"
             }
           },
           {
@@ -43,11 +92,13 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4_writing_mathematics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,7 +118,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -82,7 +135,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -90,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -113,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
+                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +178,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4_obsidian"
             }
           },
           {
@@ -130,10 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
+                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4_obsidian"
             }
           },
           {
@@ -144,7 +205,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -153,8 +216,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md"
-              }
+                "file": "mkdocs/docs/1_setting_up_system/4_obsidian.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4_obsidian"
             }
           },
           {
@@ -162,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -170,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -182,7 +251,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -204,8 +275,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8392578e772ebe",
+  "active": "6ee15160470b820a",
   "lastOpenFiles": [
+    "docs/6_company policy/3_purpose_and_scope_of_enforcement.md",
+    "docs/6_company policy/2_compliance_and_accountability.md",
+    "docs/6_company policy/1_Weekly_planning_protocol.md",
+    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
+    "docs/6_company policy",
+    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
+    "mkdocs/docs/1_setting_up_system/3_slack.md",
+    "mkdocs/docs/1_setting_up_system/2_markdown.md",
+    "mkdocs/docs/1_setting_up_system/1_introduction.md",
+    "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
     "docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.17.14 PM.png",
     "docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.11.51 PM.png",
     "docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.10.58 PM.png",
@@ -217,7 +298,6 @@
     "mkdocs/docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.10.58 PM.png",
     "mkdocs/docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.08.03 PM.png",
     "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
-    "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
     "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
     "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
@@ -234,24 +314,15 @@
     "docs/5_research_working_guidelines/4_writing_mathematics/index.html",
     "docs/5_research_working_guidelines/4_writing_mathematics",
     "mkdocs/docs/5_research_working_guidelines/2_python.md",
-    "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
     "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.57 AM.png",
-    "mkdocs/docs/1_setting_up_system/attachments/Screenshot 2024-03-16 at 5.26.29 AM.png",
     "docs/1_setting_up_system/6_how_to_setup_a_repository/index.html",
     "docs/1_setting_up_system/6_how_to_setup_a_repository",
     "mkdocs/docs/1_setting_up_system/5_git_hub.md",
-    "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "mkdocs/docs/1_setting_up_system/Create.md",
     "docs/1_setting_up_system/attachments",
     "mkdocs/docs/1_setting_up_system/attachments",
     "docs/5_research_working_guidelines/0_first_work_in_lab/index.html",
-    "docs/5_research_working_guidelines/0_first_work_in_lab",
-    "mkdocs/docs/1_setting_up_system/2_markdown.md",
-    "mkdocs/docs/1_setting_up_system/3_slack.md",
-    "mkdocs/docs/1_setting_up_system/1_introduction.md",
     "mkdocs/docs/1_setting_up_system/0_digital_you.md",
-    "mkdocs/docs/3_use_of_digital_world/3_activity_in_digital_world.md",
-    "mkdocs/docs/3_use_of_digital_world/4_places_to_visit.md",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",
