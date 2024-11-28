@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/6_company policy/2_compliance_and_accountability.md",
+                "file": "docs/6_company policy/1_Weekly_planning_protocol.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_compliance_and_accountability"
+              "title": "1_Weekly_planning_protocol"
             }
           },
           {
@@ -277,8 +277,8 @@
   },
   "active": "6ee15160470b820a",
   "lastOpenFiles": [
-    "docs/6_company policy/3_purpose_and_scope_of_enforcement.md",
     "docs/6_company policy/2_compliance_and_accountability.md",
+    "docs/6_company policy/3_purpose_and_scope_of_enforcement.md",
     "docs/6_company policy/1_Weekly_planning_protocol.md",
     "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
     "docs/6_company policy",
