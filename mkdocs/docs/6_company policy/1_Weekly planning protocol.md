@@ -4,6 +4,7 @@
 - A **one-pager weekly report** must be prepared after discussions with the team leader or senior. This report serves as the blueprint for the week's tasks.
 
 **1.2. Time Blocking and Segmentation:**
+![](attachments/IMG-20241123-WA0026-5.jpg)
 
 - Work must be time-blocked into **specific categories**:
     - **Creation**
