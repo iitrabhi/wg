@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/6_company policy/2_compliance_and_accountability.md",
+                "file": "mkdocs/docs/6_company policy/2_compliance_and_accountability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -245,14 +245,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8392578e772ebe",
+  "active": "01f9f9c6e9f233c4",
   "lastOpenFiles": [
-    "docs/6_company policy/2_compliance_and_accountability.md",
+    "mkdocs/docs/6_company policy/2_compliance_and_accountability.md",
     "docs/6_company policy/1_weekly_planning_protocol.md",
     "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
     "docs/6_company policy/1_Weekly_planning_protocol.md",
     "docs/6_company policy/3_purpose_and_scope_of_enforcement.md",
-    "docs/6_company policy",
+    "mkdocs/docs/6_company policy",
     "mkdocs/docs/1_setting_up_system/4_obsidian.md",
     "mkdocs/docs/1_setting_up_system/3_slack.md",
     "mkdocs/docs/1_setting_up_system/2_markdown.md",
