@@ -1,4 +1,5 @@
 **1.1 Weekly Time Allocation and Planning:**
+![](attachments/IMG-20241123-WA0026-7.jpg)
 
 - Employees are required to dedicate up to **2 hours every Monday** to plan their 40-hour workweek. This planning process must follow a **95:5 ratio** (95% time on auto pilot, 5% on conscious decision).
 - A **one-pager weekly report** must be prepared after discussions with the team leader or senior. This report serves as the blueprint for the week's tasks.
@@ -13,6 +14,7 @@
     - **Health**
 - Time blocks must be clearly defined, color-coded, and aligned with the employee’s weekly objectives. For example, a health block may include activities such as walking, yoga, or meditation.
 - The time-blocked schedule must be shared on the **project canvas** by Monday for leader review and approval.
+![](attachments/IMG-20241123-WA0026-6.jpg)
 
 **1.3. Repository and Communication Tools:**
 
