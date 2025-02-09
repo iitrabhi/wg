@@ -6,3 +6,9 @@ This policy applies to all employees, contractors, and associates involved in th
 
 **3.3. Appeals:**  
 Employees may appeal a third-strike decision through a written request to HR within **5 business days**, providing evidence of mitigating circumstances for review by the management.
+
+**3.3. Appeals:**  
+Employees may appeal a third-strike decision through a written request to HR within **5 business days**, providing evidence of mitigating circumstances for review by the management.
+
+**3.3. Appeals:**  
+Employees may appeal a third-strike decision through a written request to HR within **5 business days**, providing evidence of mitigating circumstances for review by the management.

@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/1_setting_up_system/3_slack.md",
+                "file": "mkdocs/docs/6_company policy/3_Purpose_and_scope_of_Enforcement.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3_slack"
+              "title": "3_Purpose_and_scope_of_Enforcement"
             }
           },
           {
@@ -207,7 +207,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -367,6 +368,7 @@
   },
   "active": "e8f87512ceb0afd8",
   "lastOpenFiles": [
+    "mkdocs/docs/1_setting_up_system/3_slack.md",
     "mkdocs/docs/7_Guidelines_for_researchers/1_How_to_prepare_your_first_draft.md",
     "docs/7_Guidelines_for_researchers/5_how_to_fix_the_good_highlights/index.html",
     "docs/7_Guidelines_for_researchers/4_how_to_write_good_captions/index.html",
@@ -397,7 +399,6 @@
     "docs/6_company policy/1_Weekly_planning_protocol.md",
     "docs/6_company policy/3_purpose_and_scope_of_enforcement.md",
     "mkdocs/docs/1_setting_up_system/4_obsidian.md",
-    "mkdocs/docs/1_setting_up_system/3_slack.md",
     "mkdocs/docs/1_setting_up_system/2_markdown.md",
     "mkdocs/docs/1_setting_up_system/1_introduction.md",
     "mkdocs/docs/5_research_working_guidelines/5_drawing_figures.md",
