@@ -13,182 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4_writing_mathematics"
-            }
-          },
-          {
-            "id": "2d8392578e772ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/6_company policy/2_compliance_and_accountability.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2_compliance_and_accountability"
-            }
-          },
-          {
-            "id": "7d136fe11511a706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/6_company policy/1_Weekly planning protocol.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_Weekly planning protocol"
-            }
-          },
-          {
-            "id": "2c35a32beaba8430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/6_company policy/1_Weekly planning protocol.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_Weekly planning protocol"
-            }
-          },
-          {
-            "id": "3d965f872965955d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/6_company policy/4_SMART_goals_A_simple_guide.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4_SMART_goals_A_simple_guide"
-            }
-          },
-          {
-            "id": "c25c9b7202b5ae87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/7_Guidelines_for_researchers/1_How_to_prepare_your_first_draft.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_How_to_prepare_your_first_draft"
-            }
-          },
-          {
-            "id": "26380e24e2bb7e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "mkdocs/docs/7_Guidelines_for_researchers/2_How_to_make_good_figures.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2_How_to_make_good_figures"
             }
           },
           {
-            "id": "6c2d9f4e0e46f79a",
+            "id": "3a1f6e499dd2607e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/7_Guidelines_for_researchers/3_how_to_make_good_graphs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3_how_to_make_good_graphs"
-            }
-          },
-          {
-            "id": "aa1622da7bf247b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/7_Guidelines_for_researchers/4_how_to_write_good_captions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4_how_to_write_good_captions"
-            }
-          },
-          {
-            "id": "e8f87512ceb0afd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/6_company policy/3_Purpose_and_scope_of_Enforcement.md",
+                "file": "mkdocs/docs/8_Guidelines_for_interns/1_welcome_and_overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3_Purpose_and_scope_of_Enforcement"
+              "title": "1_welcome_and_overview"
             }
           },
           {
-            "id": "4aae57ca2b54ecfa",
+            "id": "d51d328ece9be175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs/docs/6_company policy/2_compliance_and_accountability.md",
+                "file": "mkdocs/docs/8_Guidelines_for_interns/2_Before_you_apply.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2_compliance_and_accountability"
-            }
-          },
-          {
-            "id": "ccf77ce9ee51020e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4_writing_mathematics"
+              "title": "2_Before_you_apply"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -366,10 +231,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8f87512ceb0afd8",
+  "active": "d51d328ece9be175",
   "lastOpenFiles": [
-    "mkdocs/docs/1_setting_up_system/3_slack.md",
+    "mkdocs/docs/8_Guidelines_for_interns/1_welcome_and_overview.md",
+    "mkdocs/docs/8_Guidelines_for_interns/2_Before_you_apply.md",
+    "mkdocs/docs/7_Guidelines_for_researchers/2_How_to_make_good_figures.md",
     "mkdocs/docs/7_Guidelines_for_researchers/1_How_to_prepare_your_first_draft.md",
+    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
+    "mkdocs/docs/8_Guidelines_for_interns",
+    "mkdocs/docs/6_company policy/2_compliance_and_accountability.md",
+    "mkdocs/docs/6_company policy/1_Weekly planning protocol.md",
+    "mkdocs/docs/6_company policy/4_SMART_goals_A_simple_guide.md",
+    "mkdocs/docs/7_Guidelines_for_researchers/3_how_to_make_good_graphs.md",
+    "mkdocs/docs/7_Guidelines_for_researchers/4_how_to_write_good_captions.md",
+    "mkdocs/docs/6_company policy/3_Purpose_and_scope_of_Enforcement.md",
+    "mkdocs/docs/1_setting_up_system/3_slack.md",
     "docs/7_Guidelines_for_researchers/5_how_to_fix_the_good_highlights/index.html",
     "docs/7_Guidelines_for_researchers/4_how_to_write_good_captions/index.html",
     "docs/7_Guidelines_for_researchers/2_How_to_make_good_figures/index.html",
@@ -379,21 +255,13 @@
     "docs/7_Guidelines_for_researchers/4_how_to_write_good_captions",
     "docs/7_Guidelines_for_researchers/3_how_to_make_good_graphs",
     "docs/7_Guidelines_for_researchers/2_How_to_make_good_figures",
-    "docs/7_Guidelines_for_researchers/1_How_to_prepare_your_first_draft",
     "mkdocs/docs/7_Guidelines_for_researchers/5_how_to_fix_the_good_highlights.md",
-    "mkdocs/docs/7_Guidelines_for_researchers/4_how_to_write_good_captions.md",
-    "mkdocs/docs/7_Guidelines_for_researchers/3_how_to_make_good_graphs.md",
-    "mkdocs/docs/7_Guidelines_for_researchers/2_How_to_make_good_figures.md",
-    "mkdocs/docs/6_company policy/4_SMART_goals_A_simple_guide.md",
     "docs/6_company policy/attachments/IMG-20241123-WA0026-7.jpg",
     "docs/6_company policy/attachments/IMG-20241123-WA0026-6.jpg",
-    "mkdocs/docs/6_company policy/1_Weekly planning protocol.md",
     "docs/6_company policy/attachments/IMG-20241123-WA0026-5.jpg",
     "mkdocs/docs/6_company policy/attachments/IMG-20241123-WA0026-6.jpg",
     "mkdocs/docs/6_company policy/attachments/IMG-20241123-WA0026-7.jpg",
     "mkdocs/docs/6_company policy/attachments/IMG-20241123-WA0026-5.jpg",
-    "mkdocs/docs/6_company policy/2_compliance_and_accountability.md",
-    "mkdocs/docs/6_company policy/3_Purpose_and_scope_of_Enforcement.md",
     "mkdocs/docs/1_setting_up_system/6_how_to_setup_a_repository.md",
     "docs/6_company policy/1_weekly_planning_protocol.md",
     "docs/6_company policy/1_Weekly_planning_protocol.md",
@@ -406,13 +274,11 @@
     "docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.11.51 PM.png",
     "docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.10.58 PM.png",
     "docs/5_research_working_guidelines/attachments/Screenshot 2024-10-11 at 1.08.03 PM.png",
-    "mkdocs/docs/5_research_working_guidelines/4_writing_mathematics.md",
     "mkdocs/docs/5_research_working_guidelines/1_writing_tools.md",
     "mkdocs/docs/5_research_working_guidelines/0_first_work_in_lab.md",
     "mkdocs/docs/5_research_working_guidelines/3_fenics.md",
     "mkdocs/docs/4_recommendations/3_good_sites_to_upgrade.md",
     "mkdocs/docs/2_brand_guidelines/4_color_palates.md",
-    "mkdocs/docs/4_recommendations/2_good_video_series.md",
     "admin/architecture.canvas",
     "admin/7_meetings/Untitled.canvas",
     "paint.canvas",
